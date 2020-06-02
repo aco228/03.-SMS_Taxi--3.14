@@ -1,0 +1,11 @@
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\bin\Release\SMS_Taxi.exe
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\bin\Release\SMS_Taxi.pdb
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Release\SMS_Taxi.Form1.resources
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Release\SMS_Taxi.Form2.resources
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Release\SMS_Taxi.Form3.resources
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Release\SMS_Taxi.Properties.Resources.resources
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Release\SMS_Taxi.exe
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Release\SMS_Taxi.pdb

@@ -1,0 +1,101 @@
+c:\users\zeljko\documents\visual studio 2010\Projects\SMS_Taxi\SMS_Taxi\bin\Debug\SMS_Taxi.exe
+c:\users\zeljko\documents\visual studio 2010\Projects\SMS_Taxi\SMS_Taxi\bin\Debug\SMS_Taxi.pdb
+c:\users\zeljko\documents\visual studio 2010\Projects\SMS_Taxi\SMS_Taxi\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zeljko\documents\visual studio 2010\Projects\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form1.resources
+c:\users\zeljko\documents\visual studio 2010\Projects\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Properties.Resources.resources
+c:\users\zeljko\documents\visual studio 2010\Projects\SMS_Taxi\SMS_Taxi\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\zeljko\documents\visual studio 2010\Projects\SMS_Taxi\SMS_Taxi\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\zeljko\documents\visual studio 2010\Projects\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.exe
+c:\users\zeljko\documents\visual studio 2010\Projects\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.pdb
+C:\Users\Zeljko\documents\visual studio 2010\Projects\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form2.resources
+C:\Users\Zeljko\documents\visual studio 2010\Projects\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form3.resources
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.exe
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.pdb
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\bin\Debug\SMS_Taxi.exe
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\bin\Debug\SMS_Taxi.pdb
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form1.resources
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form2.resources
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form3.resources
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Properties.Resources.resources
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zeljko\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.exe
+C:\Users\Zeljko\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.pdb
+C:\Users\Zeljko\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zeljko\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form1.resources
+C:\Users\Zeljko\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form2.resources
+C:\Users\Zeljko\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form3.resources
+C:\Users\Zeljko\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Properties.Resources.resources
+C:\Users\Zeljko\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zeljko\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zeljko\Desktop\SMS_Taxi\SMS_Taxi\bin\Debug\SMS_Taxi.exe
+C:\Users\Zeljko\Desktop\SMS_Taxi\SMS_Taxi\bin\Debug\SMS_Taxi.pdb
+C:\Users\Aco\Desktop\SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.racun.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.exe
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.pdb
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\bin\Debug\SMS_Taxi.exe
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\bin\Debug\SMS_Taxi.pdb
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi._01_intro.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form1.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form2.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form3.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Properties.Resources.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.racun.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.exe
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.pdb
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\bin\Debug\SMS_Taxi.exe
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\bin\Debug\SMS_Taxi.pdb
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\bin\Debug\MySql.Data.dll
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi._01_intro.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form1.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form2.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form3.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Properties.Resources.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\SMS_Taxi.racun.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi\SMS_Taxi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.exe
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.pdb
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\bin\Debug\SMS_Taxi.exe
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\bin\Debug\SMS_Taxi.pdb
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi._01_intro.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form1.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form2.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form3.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Properties.Resources.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.racun.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form4_lista.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form1_BL.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.exe
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.pdb
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\bin\Debug\SMS_Taxi.exe
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\bin\Debug\SMS_Taxi.pdb
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\bin\Debug\MySql.Data.dll
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi._01_intro.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form1.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form1_BL.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form2.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form3.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form4_lista.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Properties.Resources.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.racun.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form1_Podesavanja.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.Form1_Podesavanja.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.soundList.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.message.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.message.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi.soundList.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi._02_develop.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\bin\Debug\MySql.Data.dll
+C:\Users\win7\Documents\Visual Studio 2010\Projects\03. SMS_Taxi -3.14\SMS_Taxi\obj\x86\Debug\SMS_Taxi._02_develop.resources

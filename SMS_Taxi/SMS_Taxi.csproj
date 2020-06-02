@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{86886CF6-DD3C-42F3-9B5F-E69612DEF780}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SMS_Taxi</RootNamespace>
+    <AssemblyName>SMS_Taxi</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.5.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="01_intro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="01_intro.Designer.cs">
+      <DependentUpon>01_intro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="02_develop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="02_develop.Designer.cs">
+      <DependentUpon>02_develop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aco\kripcija.cs" />
+    <Compile Include="Aco\var.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_BL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1_BL.Designer.cs">
+      <DependentUpon>Form1_BL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_Podesavanja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1_Podesavanja.Designer.cs">
+      <DependentUpon>Form1_Podesavanja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_sub.cs" />
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4_lista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4_lista.Designer.cs">
+      <DependentUpon>Form4_lista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helper.cs" />
+    <Compile Include="message.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="message.Designer.cs">
+      <DependentUpon>message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="racun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="racun.Designer.cs">
+      <DependentUpon>racun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="soundList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="soundList.Designer.cs">
+      <DependentUpon>soundList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StravaAndZasu.cs" />
+    <EmbeddedResource Include="01_intro.resx">
+      <DependentUpon>01_intro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="02_develop.resx">
+      <DependentUpon>02_develop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1_BL.resx">
+      <DependentUpon>Form1_BL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1_Podesavanja.resx">
+      <DependentUpon>Form1_Podesavanja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4_lista.resx">
+      <DependentUpon>Form4_lista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="message.resx">
+      <DependentUpon>message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="racun.resx">
+      <DependentUpon>racun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="soundList.resx">
+      <DependentUpon>soundList.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="security_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="security_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon-sms.ico" />
+    <Content Include="icon.ico" />
+    <Content Include="Resources\background.png" />
+    <None Include="Resources\baner.jpg" />
+    <Content Include="Resources\btn_izlaz.png" />
+    <Content Include="Resources\btn_laod.png" />
+    <None Include="Resources\btn_lista.png" />
+    <None Include="Resources\btn_restart.png" />
+    <Content Include="Resources\btn_save.png" />
+    <None Include="Resources\btn_sound.png" />
+    <Content Include="Resources\login_potvrdi1.png" />
+    <Content Include="Resources\greska.png" />
+    <Content Include="Resources\login_forma.png" />
+    <Content Include="Resources\login_potvrdi.png" />
+    <Content Include="Resources\pomoc.png" />
+    <Content Include="Resources\start.png" />
+    <Content Include="Resources\za-panele.png" />
+    <None Include="Resources\Save as.png" />
+    <None Include="mail_send_48x48x32.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
